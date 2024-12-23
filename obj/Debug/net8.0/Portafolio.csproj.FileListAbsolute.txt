@@ -32,3 +32,4 @@ C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\refint
 C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.pdb
 C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.genruntimeconfig.cache
 C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\ref\Portafolio.dll
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.sourcelink.json

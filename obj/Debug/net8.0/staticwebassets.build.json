@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dsfvSJ4kY5Ms5P0vrSCg3uaCD2U7WBw+cmbbeFOEmoo=",
+  "Hash": "pbzEsW+B3D6EKvICuI+f0WQ0JZ0c/qG98TDrnU4Rws0=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hncx7rguh8",
-      "Integrity": "TfFX8dyPQedWnntyD2Hf6ARodmNjA6RoRJ77qBVdWeo=",
+      "Fingerprint": "ahbfx73sfo",
+      "Integrity": "3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\estilo.css"
@@ -1426,6 +1426,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/estilo.ahbfx73sfo.css",
+      "AssetFile": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\estilo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 04:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ahbfx73sfo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/estilo.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g="
+        }
+      ]
+    },
+    {
       "Route": "css/estilo.css",
       "AssetFile": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\estilo.css",
       "Selectors": [],
@@ -1436,7 +1481,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "481"
+          "Value": "512"
         },
         {
           "Name": "Content-Type",
@@ -1444,11 +1489,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TfFX8dyPQedWnntyD2Hf6ARodmNjA6RoRJ77qBVdWeo=\""
+          "Value": "\"3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 04:10:24 GMT"
+          "Value": "Mon, 23 Dec 2024 04:26:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1458,52 +1503,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TfFX8dyPQedWnntyD2Hf6ARodmNjA6RoRJ77qBVdWeo="
-        }
-      ]
-    },
-    {
-      "Route": "css/estilo.hncx7rguh8.css",
-      "AssetFile": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\estilo.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "481"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TfFX8dyPQedWnntyD2Hf6ARodmNjA6RoRJ77qBVdWeo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 04:10:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hncx7rguh8"
-        },
-        {
-          "Name": "label",
-          "Value": "css/estilo.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-TfFX8dyPQedWnntyD2Hf6ARodmNjA6RoRJ77qBVdWeo="
+          "Value": "sha256-3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g="
         }
       ]
     },
