@@ -1,0 +1,41 @@
+﻿#foto {
+    width: 200px;
+    margin: 20px;
+    border-radius: 20%
+}
+
+.mi_introduccion{
+    margin: 0px;
+    width: 100%;
+}
+.mi_introduccion h1, p{
+    color: white;
+    padding: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.tarjeta{
+    margin: 1rem;
+}
+
+.tarjeta ul {
+    list-style:none;
+    padding-left:0;
+}
+
+.tarjeta p {
+    color: black;
+}
+
+.cabecera{
+    font-weight: bold;
+}
+
+.bi {
+    color: #0d6efd;
+    font-size: 100px
+}
+.imgs{
+    padding: 1rem;
+}
