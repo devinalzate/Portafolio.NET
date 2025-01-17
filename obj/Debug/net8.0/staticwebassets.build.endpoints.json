@@ -85,51 +85,6 @@
       ]
     },
     {
-      "Route": "css/estilo.ahbfx73sfo.css",
-      "AssetFile": "css/estilo.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "512"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 04:26:29 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ahbfx73sfo"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g="
-        },
-        {
-          "Name": "label",
-          "Value": "css/estilo.css"
-        }
-      ]
-    },
-    {
       "Route": "css/estilo.css",
       "AssetFile": "css/estilo.css",
       "Selectors": [],
@@ -144,7 +99,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "512"
+          "Value": "578"
         },
         {
           "Name": "Content-Type",
@@ -152,17 +107,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g=\""
+          "Value": "\"tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Dec 2024 04:26:29 GMT"
+          "Value": "Fri, 10 Jan 2025 01:01:56 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3lS+fMzw+IpUbf484dgvXZlaDxU5lz5uKCHYoJBHv+g="
+          "Value": "sha256-tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0="
+        }
+      ]
+    },
+    {
+      "Route": "css/estilo.gh835lvd1l.css",
+      "AssetFile": "css/estilo.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 01:01:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gh835lvd1l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0="
+        },
+        {
+          "Name": "label",
+          "Value": "css/estilo.css"
         }
       ]
     },

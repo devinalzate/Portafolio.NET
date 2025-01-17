@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/Portafolio/css/estilo.ahbfx73sfo.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\estilo.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ahbfx73sfo"},{"Name":"integrity","Value":"sha256-3lS\u002BfMzw\u002BIpUbf484dgvXZlaDxU5lz5uKCHYoJBHv\u002Bg="},{"Name":"label","Value":"_content/Portafolio/css/estilo.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"512"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223lS\u002BfMzw\u002BIpUbf484dgvXZlaDxU5lz5uKCHYoJBHv\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Dec 2024 04:26:29 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Portafolio/css/estilo.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\estilo.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3lS\u002BfMzw\u002BIpUbf484dgvXZlaDxU5lz5uKCHYoJBHv\u002Bg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"512"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223lS\u002BfMzw\u002BIpUbf484dgvXZlaDxU5lz5uKCHYoJBHv\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Dec 2024 04:26:29 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"578"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 01:01:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Portafolio/css/estilo.gh835lvd1l.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\estilo.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gh835lvd1l"},{"Name":"integrity","Value":"sha256-tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0="},{"Name":"label","Value":"_content/Portafolio/css/estilo.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"578"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tBYj2miHlkFAkxxiam9kEBYdOrfNj/3VNFTpFkgCDe0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 01:01:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Portafolio/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

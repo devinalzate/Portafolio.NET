@@ -2,7 +2,12 @@
 
 namespace Portafolio.Servicios
 {
-    public class RepositorioProyectos
+    public interface IRepositorioProyectos
+    {
+        List<Proyecto> ListaProyectos();
+    }
+
+    public class RepositorioProyectos : IRepositorioProyectos
     {
         public List<Proyecto> ListaProyectos()
         {
@@ -31,20 +36,22 @@ namespace Portafolio.Servicios
                     ImagenURL = "/imaganes/imagen3.png",
                     Link = ""
                 },
+
                 new Proyecto
                 {
-                    Nombre = "Proyecto 3",
-                    Descripcion = "Descripcion del proyecto 3",
-                    ImagenURL = "/imaganes/imagen3.png",
+                    Nombre = "Proyecto 4",
+                    Descripcion = "Descripcion del proyecto 4",
+                    ImagenURL = "/imaganes/imagen1.png",
                     Link = ""
                 },
+
                 new Proyecto
                 {
-                    Nombre = "Proyecto 3",
-                    Descripcion = "Descripcion del proyecto 3",
-                    ImagenURL = "/imaganes/imagen3.png",
+                    Nombre = "Proyecto 5",
+                    Descripcion = "Descripcion del proyecto 5",
+                    ImagenURL = "/imaganes/imagen2.png",
                     Link = ""
-                },
+                }
             };
         }
     }

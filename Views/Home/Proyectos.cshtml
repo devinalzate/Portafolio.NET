@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Proyecto>
+
+@{
+	ViewData["Title"] = "Proyectos";
+}
+
+
+@if (Model is not null){
+
+	<div class="container">
+		<h1>Proyectos</h1>
+		<p id="parrafo_proy">En esta seccion encontraras todos los proyectos en los que he trabajado</p>
+	</div>
+
+	<partial name="_CicloProyectos" />
+
+}

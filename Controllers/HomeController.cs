@@ -8,9 +8,9 @@ namespace Portafolio.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly RepositorioProyectos rep;
+        private readonly IRepositorioProyectos rep;
 
-        public HomeController(ILogger<HomeController> logger , RepositorioProyectos rep)
+        public HomeController(ILogger<HomeController> logger , IRepositorioProyectos rep)
         {
             _logger = logger;
             this.rep = rep;
@@ -18,8 +18,9 @@ namespace Portafolio.Controllers
 
         public IActionResult Index()
         {
-            var proyectos = rep.ListaProyectos().ToList();
+            var proyectos = rep.ListaProyectos().Take(3).ToList();
             var modelos = new HomeIndexViewModel() { Proyectos = proyectos };
+
 
             var persona = new Persona()
             {
@@ -37,8 +38,35 @@ namespace Portafolio.Controllers
 
         }
 
-        public IActionResult Privacy()
+        public IActionResult Proyectos()
         {
+            var proyectos = rep.ListaProyectos();
+
+
+            return View(proyectos);
+        }
+
+        public ILogger Get_logger()
+        {
+            return _logger;
+        }
+
+        public IActionResult Contacto()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Contacto(ContactoVM contactoVM)
+        {
+            var nombre = contactoVM.nombre;
+            var email = contactoVM.email;
+            return RedirectToAction("Gracias");
+        }
+
+        public IActionResult Gracias()
+        {
+            
             return View();
         }
 
