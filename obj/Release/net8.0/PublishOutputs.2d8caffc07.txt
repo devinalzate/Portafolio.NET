@@ -1,0 +1,7 @@
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Release\net8.0\PubTmp\Out\Portafolio.exe
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Release\net8.0\PubTmp\Out\Portafolio.dll
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Release\net8.0\PubTmp\Out\Portafolio.deps.json
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Release\net8.0\PubTmp\Out\Portafolio.runtimeconfig.json
+C:\Users\DEVIN ALZATE\source\repos\Portafolio\Portafolio\obj\Release\net8.0\PubTmp\Out\Portafolio.pdb

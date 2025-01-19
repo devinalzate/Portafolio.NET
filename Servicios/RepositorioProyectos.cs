@@ -4,11 +4,13 @@ namespace Portafolio.Servicios
 {
     public interface IRepositorioProyectos
     {
+        //Method for storing a list of "Project" type objects
         List<Proyecto> ListaProyectos();
     }
 
     public class RepositorioProyectos : IRepositorioProyectos
     {
+        //Saved projects in the method "ListaProyectos" of interface "IRepositorioProyectos"
         public List<Proyecto> ListaProyectos()
         {
             return new List<Proyecto>()

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yzxF9x/RRu0gWM6irEFG0IPFYS++NWFG+YGhrERUki0=",
+  "Hash": "DZ+LNz1+diO7HnEpkv5l5Qzm952qgH5MmyCxbv80S6Y=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -141,6 +141,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imaganes\\foto.png"
+    },
+    {
+      "Identity": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imaganes\\foto_perfil.jpeg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imaganes/foto_perfil#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h1nu32wa1x",
+      "Integrity": "JXvNSCqbNwhkzGb3ZJkzPMWjfuzWNhYbgSfxI5UdBe8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imaganes\\foto_perfil.jpeg"
     },
     {
       "Identity": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imaganes\\imagen1.png",
@@ -1750,6 +1771,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1wHIpCynzaAbd9Gn9MnYEm+BQsjUt9cQOlYOMhmc76A="
+        }
+      ]
+    },
+    {
+      "Route": "imaganes/foto_perfil.h1nu32wa1x.jpeg",
+      "AssetFile": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imaganes\\foto_perfil.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXvNSCqbNwhkzGb3ZJkzPMWjfuzWNhYbgSfxI5UdBe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Jun 2024 01:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h1nu32wa1x"
+        },
+        {
+          "Name": "label",
+          "Value": "imaganes/foto_perfil.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXvNSCqbNwhkzGb3ZJkzPMWjfuzWNhYbgSfxI5UdBe8="
+        }
+      ]
+    },
+    {
+      "Route": "imaganes/foto_perfil.jpeg",
+      "AssetFile": "C:\\Users\\DEVIN ALZATE\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imaganes\\foto_perfil.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81271"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JXvNSCqbNwhkzGb3ZJkzPMWjfuzWNhYbgSfxI5UdBe8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Jun 2024 01:09:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JXvNSCqbNwhkzGb3ZJkzPMWjfuzWNhYbgSfxI5UdBe8="
         }
       ]
     },
