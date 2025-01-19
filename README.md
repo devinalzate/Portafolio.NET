@@ -1,4 +1,4 @@
-# Personal portfolio realiced in ASP.NET Core
+# Personal portfolio done in ASP.NET Core
 
 
 
